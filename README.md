@@ -1,7 +1,5 @@
 # Technovation
 
-# **1:Introduction**
-
 This labs notebook, created for a [Technovation, Code with me - AI](https://www.technovationmontreal.com/artificial-intelligence/en) workshop, guides you through data exploration and simple AI model creation. It uses sample data that is similar to behavioral data captured on real website or mobile application.
 
 This is an introductory activity, so all of the code has already been written for you -- all you need to do is click a button to run it! We've also included comments about what the code is doing so you can start to get a hang of what Python functions look like.
